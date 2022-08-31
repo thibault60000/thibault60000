@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thibault60000&orgs=Homepilot&show_icons=true&locale=fr" alt="thibault60000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault60000&" alt="thibault60000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thibault60000&orgs=Homepilot" alt="thibault60000" /></p>
