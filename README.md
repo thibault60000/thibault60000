@@ -10,15 +10,24 @@
 
 - 🔭 Je travaille actuellement sur **NuxtJS + GraphQL + Docker + Elastic Search**
 
-- 🌱 En cours d'apprentissage sur **Vue 3 et Flutter**
+- 🌱 En cours d'apprentissage sur **Vue 3 / Flutter React Fiber**
  
 - 📝 J'écrivais régulièrement des articles sur [https://medium.com/@thibault60000](https://medium.com/@thibault60000) mais j'ai un peu moins de temps 😬
 
-- 💬 N'hésitez pas à me poser des questions sur **React, Vue, GraphQL, Javascript, CSS, HTML**
+- 💬 Mes derniers projets en cours : 
 
-- 📫 Vous pouvez me joindre à **thibault.jeanpierre.dev@gmail.com**
+-> Mon bureau avec ThreeJS https://github.com/thibault60000/my-desk-threejs
+ 
+-> Une application de listing de cadeaux (Backend : Keystone, GraphQL, NodeMailer. Front : NextJS, Tailwind, PrimeReact) https://github.com/thibault60000/keystone-6-backend et https://github.com/thibault60000/keystone-6-frontend
 
-- ⚡ Bon à savoir sur moi ? **Mon chien est le plus beau !**
+-> J'apprends petit à petit Flutter avec des projets comme 1. Quizz https://github.com/thibault60000/flutter-quizz , 2. Musique https://github.com/thibault60000/flutter-music
+
+-> Toujours un peu de ThreeJS avec un petit portail https://github.com/thibault60000/three-portal-scene
+
+-> Un peu moins fan mais apprentissage de Gatsby avec un site web / CRM de menu de restaurant https://github.com/thibault60000/gatsby-eat
+
+
+- En ce moment je travaille beaucoup sur Clickup, Slack, Figma mais j'ai vu JIRA, Trello, Monday, Notion, Teams, Whimsical, ...etc
 
 <h3 align="left">Contactez moi:</h3>
 <p align="left">
